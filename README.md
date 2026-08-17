@@ -3,7 +3,7 @@
 # CS Graduate | Avid Programmer
 
 - Currently learning Node.js
-- Skilled in Java, Python, JavaScript, HTML/CSS, MySQL
+- Skilled in Java, Python, C, C++, JavaScript, HTML/CSS, MySQL
 <!--
 **c-prout/c-prout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
