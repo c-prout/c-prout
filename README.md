@@ -4,9 +4,7 @@
 
 - Currently brushing up on Node.js!
 ## Skills:
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3780feac-a9c9-491d-871c-f9b9a090ae85" />   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cab36732-58dd-4caa-83f7-8af00fa9c0a9" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a2d11bb2-b30d-4428-9472-5dc1b01ee664" /> 
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3780feac-a9c9-491d-871c-f9b9a090ae85" />   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/cab36732-58dd-4caa-83f7-8af00fa9c0a9" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a2d11bb2-b30d-4428-9472-5dc1b01ee664" /> 
 
 
 
