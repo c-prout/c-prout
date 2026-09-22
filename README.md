@@ -1,5 +1,5 @@
 # About Me 
--Hello! I'm Connor, a Computer Science graduate from Indiana University South Bend with a background in programming, databases, and systems concepts. Currently, I'm looking to improve my fundamentals in computing theory. I hope to continue to add future projects here and keep things interesting, as the years progress.
+- Hello! I'm Connor, a Computer Science graduate from Indiana University South Bend with a background in programming, databases, and systems concepts. Currently, I'm looking to improve my fundamentals in computing theory. I hope to continue to add future projects here and keep things interesting, as the years progress.
 
 
 - Currently brushing up on Node.js!
@@ -15,7 +15,7 @@
 
 
 
-in Java, Python, C, C++, JavaScript, HTML/CSS, MySQL
+(Java, Python, C, C++, JavaScript, HTML/CSS, MySQL)
 <!--
 **c-prout/c-prout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
